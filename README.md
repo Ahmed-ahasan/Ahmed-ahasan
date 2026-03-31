@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-ahasan/Ahmed-ahasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student  
+🎮 Passionate about game development  
+🎨 Interested in digital art & 3D modeling  
 
-Here are some ideas to get you started:
+## Skills
+- Flutter
+- Java / Kotlin
+- Blender (basic)
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Bank Notification App (Flutter + Android)
+- Game Concepts (Blender + Art)
+
+## Goals
+- Internship in game development
+- Become a full-time game developer
