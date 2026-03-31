@@ -5,6 +5,8 @@ a Software Engineering Student @ University of Bahrain
 Interested in DevOps, mobile development, AI, and algorithms.  
 I enjoy building practical applications and solving real-world problems.
 
+currently working on INFAQ - a personal finance management app
+
 ## Tech Stack
 Java | Python | Dart | SQL | JavaScript  
 Flutter | Firebase | Git | GitHub Actions | Azure  
